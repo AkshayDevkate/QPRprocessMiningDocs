@@ -65,5 +65,12 @@ QPR has chosen Amazon Web Services (AWS) as the cloud computing platform for del
 | Process Improvement | https://www.qpr.com/solutions/process-intelligence |
 | IT & ERP development | https://www.qpr.com/solutions/it-erp-development |
 
+# Resources 
+
+1. [Blogs](https://www.qpr.com/blog)
+
+2. [News](https://www.qpr.com/company/news)
+
+3. [QPR Developer Community](https://www.qpr.com/community)
 
 
